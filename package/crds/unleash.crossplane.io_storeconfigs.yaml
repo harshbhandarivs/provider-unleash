@@ -4,9 +4,9 @@ kind: CustomResourceDefinition
 metadata:
   annotations:
     controller-gen.kubebuilder.io/version: v0.14.0
-  name: storeconfigs.unleash.upbound.io
+  name: storeconfigs.unleash.crossplane.io
 spec:
-  group: unleash.upbound.io
+  group: unleash.crossplane.io
   names:
     categories:
     - crossplane
